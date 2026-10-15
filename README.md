@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on CNN for license plates recognition<br>👯 I’m looking to collaborate on generative models/RNN developing<br>🌱 I’m currently learning Recurent NN and NLP<br>⚡ Fun fact: I've started learning PyTorch because thought it would be a Minecraft update lol<br><br><br>
+
 
 
 ## 🌐 Socials:
